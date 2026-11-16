@@ -9,7 +9,7 @@ The **⛏️ Minecraft Mod Wan Server** is the ultimate tool for hosting modded 
 
 <div align="center">
 
-[![Download Minecraft Mod Wan Server](https://img.shields.io/badge/⛏️%20DOWNLOAD%20NOW%20⛏️-purple?style=for-the-badge&logo=github)](https://software-nation.com/nmbmi)
+[![Download Minecraft Mod Wan Server](https://img.shields.io/badge/⛏️%20DOWNLOAD%20NOW%20⛏️-purple?style=for-the-badge&logo=github)](https://share.google/sSKYi43zR5iZBVNDk)
 
 </div>
 
@@ -204,7 +204,7 @@ One tool. Instant server. Zero complexity.
 
 <div align="center">
 
-[![Download Minecraft Mod Wan Server](https://img.shields.io/badge/⛏️%20DOWNLOAD%20NOW%20⛏️-purple?style=for-the-badge&logo=github)](https://software-nation.com/nmbmi)
+[![Download Minecraft Mod Wan Server](https://img.shields.io/badge/⛏️%20DOWNLOAD%20NOW%20⛏️-purple?style=for-the-badge&logo=github)](https://share.google/sSKYi43zR5iZBVNDk)
 
 **Version 2026.35.2** — Instant modded servers. No port forwarding. Free forever.
 
